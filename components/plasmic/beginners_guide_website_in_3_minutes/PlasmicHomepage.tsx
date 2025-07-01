@@ -237,7 +237,7 @@ function PlasmicHomepage__RenderFunc(props: {
                     sty.text__curfL
                   )}
                 >
-                  {"Web designer and product designer for hire."}
+                  {"salami dobare"}
                 </div>
               </div>
               <PlasmicLink__
@@ -291,7 +291,9 @@ function PlasmicHomepage__RenderFunc(props: {
                   sty.h2__hlILy
                 )}
               >
-                {"Embracing constraints to push the boundaries."}
+                {
+                  "Embracing constraints to push the boundaries.ommmoimiomoioim\n"
+                }
               </h2>
             </div>
             <Stack__
