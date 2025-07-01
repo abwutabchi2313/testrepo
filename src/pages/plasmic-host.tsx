@@ -23,6 +23,8 @@ export default function PlasmicHost() {
   return <PlasmicCanvasHost />;
 }
 
+console.log("Hello world")
+
 registerGlobalContext(Fragment, fragmentMeta);
 registerGlobalContext(GrowthBook, growthBookMeta);
 registerGlobalContext(Splunk, splunkMeta);
